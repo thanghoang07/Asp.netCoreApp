@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{63B95BD9-F041-4F4C-86E4-195475601FE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp\WebApp.csproj", "{63B95BD9-F041-4F4C-86E4-195475601FE4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{17866CC4-1AC4-48A6-93E9-F80E4EF41C50}"
 EndProject
@@ -13,15 +13,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infrastructure", "4 - Infrastructure", "{6942CB0B-BFD7-4AB0-9F89-A28A2D73BAB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Application", "WebApp.Application\WebApp.Application.csproj", "{C4E25459-5DEB-477F-A2BE-B1FC85CF6235}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.Application", "WebApp.Application\WebApp.Application.csproj", "{C4E25459-5DEB-477F-A2BE-B1FC85CF6235}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Data", "WebApp.Data\WebApp.Data.csproj", "{0510224F-812D-43D8-87E7-07EE7C06E224}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.Data", "WebApp.Data\WebApp.Data.csproj", "{0510224F-812D-43D8-87E7-07EE7C06E224}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Data.EF", "WebApp.Data.EF\WebApp.Data.EF.csproj", "{25A13184-DC0E-4666-BCF2-98CA7BEEAAE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.Data.EF", "WebApp.Data.EF\WebApp.Data.EF.csproj", "{25A13184-DC0E-4666-BCF2-98CA7BEEAAE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Infrastructure", "WebApp.Infrastructure\WebApp.Infrastructure.csproj", "{B61EDEF0-C2EE-471C-B60A-E027730C1114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.Infrastructure", "WebApp.Infrastructure\WebApp.Infrastructure.csproj", "{B61EDEF0-C2EE-471C-B60A-E027730C1114}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Utilities", "WebApp.Utilities\WebApp.Utilities.csproj", "{6A941294-EF8F-448C-9588-2B9B57C029A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.Utilities", "WebApp.Utilities\WebApp.Utilities.csproj", "{6A941294-EF8F-448C-9588-2B9B57C029A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
